@@ -1,0 +1,6 @@
+[book]
+authors = ["Jesus Berisa Nuñez"]
+language = "en"
+multilingual = false
+src = "src"
+title = "BibliotecaGitBook"
