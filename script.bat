@@ -10,5 +10,5 @@ git add -A --
 
 git commit -m "Fecha: %fecha% , hora: %hora%"
 
-git push origin master
+git push github master
 pause
