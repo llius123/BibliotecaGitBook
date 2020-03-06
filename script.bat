@@ -3,11 +3,10 @@
 set fecha=%date%
 set hora=%time%
 
-set/p commit=Fecha: %fecha% , hora: %hora%
+set commit=Fecha: %fecha% , hora: %hora%
 
-echo %commit%
 
 git add -A --
 
-git commit -am '%commit%'
+git commit -m "Fecha: %fecha% , hora: %hora%"
 pause
