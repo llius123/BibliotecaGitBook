@@ -90,6 +90,6 @@ Seguimos con ***Loony Lips***.
 
 En la parte de la derecha
 
-![image-20200330205013132](D:\BibliotecaGitBook\docs\Apuntes\img\image-20200330205013132.png)
+![image-20200330214055372](Apuntes/img/image-20200330214055372.png)
 
 Seleccionamos **texture** y despues **load**, y seleccionamos de assets el background.
