@@ -20,7 +20,7 @@ https://godottutorials.pro/rpg-godot-tutorial/
 
 * Crear un nuevo script
 
-  ![Sin título2](D:\BibliotecaGitBook\docs\Apuntes\img\Sin título2.png)
+  ![image-20200330214445830](Apuntes/img/image-20200330214445830.png)
 
 * Los comentarios en godot se hacen asi.
 
@@ -70,7 +70,7 @@ var story = "Mi %s es %s y mi apellido es %s"
 print (story % prompts)
 ```
 
-![image-20200330203317896](D:\BibliotecaGitBook\docs\Apuntes\img\image-20200330203317896.png)
+![image-20200330214434030](Apuntes/img/image-20200330214434030.png)
 
 Y lo mismo pasa al contrario, hay definidos mas `%s` de los que hay en el array.
 
@@ -82,11 +82,11 @@ Seguimos con ***Loony Lips***.
 
   Se pincha en **Add child node.**
 
-  ![image-20200330204712253](D:\BibliotecaGitBook\docs\Apuntes\img\image-20200330204712253.png)
+  ![image-20200330214420946](Apuntes/img/image-20200330214420946.png)
 
   Buscamos en el buscador **text** y seleccionamos el **TextureRect**.
 
-![image-20200330204759275](D:\BibliotecaGitBook\docs\Apuntes\img\image-20200330204759275.png)
+![image-20200330214330570](Apuntes/img/image-20200330214330570.png)
 
 En la parte de la derecha
 
