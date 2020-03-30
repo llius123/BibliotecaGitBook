@@ -2,6 +2,8 @@
 
 ## Links
 
+https://www.youtube.com/watch?v=-5wpm-gesOY&feature=youtu.be
+
 https://medium.com/@alexeirudak/how-i-earned-1m-with-no-business-experience-and-spent-it-to-create-a-brand-new-translator-54cbd68fa9b
 
 https://angular-academy.com/angular-architecture-best-practices/index.html
